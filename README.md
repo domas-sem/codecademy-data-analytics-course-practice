@@ -1,14 +1,17 @@
+# CodeAcademy Python and SQL Tasks from Data Analytics Course
 
-# CodeAcademy Python and SQL Tasks from Data Analytics course
+This repository contains my Python and SQL practice work and mini‑projects completed during the CodeAcademy Data Analytics course.
 
-This repository contains my practice tasks and mini-projects completed during CodeAcademy studies.
+## Topics covered
 
-## Topics
-- Python basics
-- Loops and functions
-- Data handling
-- SQL queries
-- Joins and filtering
+- Python basics, loops, functions  
+- Working with data structures and files  
+- Data cleaning and basic analysis  
+- SQL queries and filtering  
+- Joins, aggregations, and simple reporting  
 
-## Goal
-To build my junior data analyst portfolio with Python and SQL practice work.
+## Purpose
+
+- To track my progress through the CodeAcademy Data Analytics course  
+- To document my Python and SQL learning path  
+- To serve as part of my junior data analyst portfolio
