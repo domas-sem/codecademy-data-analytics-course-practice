@@ -4,9 +4,9 @@ This repository contains my Python and SQL practice work and mini‑projects com
 
 ## Topics covered
 
-- Python basics, loops, functions  
+- Python basics, loops, functions, lists, dictionaries
 - Working with data structures and files  
-- Data cleaning and basic analysis  
+- Data cleaning  
 - SQL queries and filtering  
 - Joins, aggregations, and simple reporting  
 
