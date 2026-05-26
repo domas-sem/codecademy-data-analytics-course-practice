@@ -1,4 +1,4 @@
-# CodeAcademy Python and SQL Tasks from Data Analytics Course
+# CodeAcademy Python and SQL Tasks from Data Analytics Courses
 
 This repository contains my Python and SQL practice work and mini‑projects completed during multiple Data Analytics courses.
 
