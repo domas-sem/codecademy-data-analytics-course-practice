@@ -6,7 +6,7 @@ Public databases such as Lyft Trip Data, Startups, Sakila have been used for exe
 
 ## Files
 
-- `aggregate_functions_task.sql` – practice with aggregate functions such as `SUM`, `COUNT`, `AVG`, `MIN`, and `MAX`
+- `sql/aggregate_functions_practice.sql` – practice with aggregate functions such as `SUM`, `COUNT`, `AVG`, `MIN`, and `MAX`
 - `multiple_tables_trip_data.sql` – practice with queries that combine data from multiple related tables
 - `sakila_film_analysis.sql` – SQL practice on the Sakila sample database, focused on filtering, aggregation, grouping, and text matching
 
