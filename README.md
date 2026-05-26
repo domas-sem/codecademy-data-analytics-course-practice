@@ -42,7 +42,7 @@ Main skills demonstrated:
 
 File:
 
-- `sql/sakila_tasks.sql`
+- `sql/sakila_film_analysis.sql`
 
 ## Topics covered
 
