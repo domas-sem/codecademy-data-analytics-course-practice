@@ -5,7 +5,7 @@ This folder will contain Python tasks and practice files from my CodeAcademy cou
 ## Files
 
 - `medical_insurance_dictionary_project.py` – practice with dictionaries, nested dictionaries, loops, and simple data analysis on medical insurance records
-- `python_strings_medical_insurance_project_task.py` – practice with string operations in a medical insurance context
+- `python/medical_insurance_strings_project.py` – practice with string operations in a medical insurance context
 
 ## Featured mini project: Medical insurance dictionary project
 
