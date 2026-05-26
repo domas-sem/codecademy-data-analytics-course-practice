@@ -6,8 +6,8 @@ Its purpose is to document my learning process, organize my practice work, and s
 
 ## Repository structure
 
-- `python/` – Python practice tasks and mini projects
-- `sql/` – SQL practice queries and mini projects
+- [`python/`](python/) – Python practice tasks and mini projects
+- [`sql/`](sql/) – SQL practice queries and mini projects
 
 ## Featured mini projects
 
