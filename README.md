@@ -27,22 +27,25 @@ File:
 
 - `python/medical_insurance_dictionary_project.py`
 
-### SQL: Sakila SQL analysis
+### SQL: Sakila analysis and advanced queries
 
-A SQL practice project based on the `sakila.film` table from the Sakila sample database.
+SQL practice projects based on the Sakila sample database, focused on filtering, joins, aggregation, grouping, and business-style query tasks.
 
 Main skills demonstrated:
 
 - filtering with `WHERE`
 - aggregation with `SUM`, `COUNT`, `AVG`, `MIN`, `MAX`
 - grouping with `GROUP BY`
+- filtering grouped results with `HAVING`
 - sorting with `ORDER BY`
+- joins across multiple related tables
 - pattern matching with `LIKE`
 - conditional logic with `AND`, `OR`, and `BETWEEN`
 
-File:
+Files:
 
-- `sql/sakila_film_analysis.sql`
+- [`sql/sakila_film_analysis.sql`](sql/sakila_film_analysis.sql)
+- [`sql/sakila_advanced_queries.sql`](sql/sakila_advanced_queries.sql)
 
 ## Topics covered
 
