@@ -6,6 +6,8 @@ This folder will contain Python tasks and practice files from my CodeAcademy cou
 
 - `medical_insurance_dictionary_project.py` – a dictionary-based practice project that stores, updates, and analyzes medical insurance data using nested dictionaries, loops, and comprehensions
 - `medical_insurance_strings_project.py` – a string-cleaning practice project that transforms raw medical insurance text data into a more structured format and calculates summary information such as record count and average BMI
+- `python_files_project_task.py` – a file I/O practice project that reads data from a CSV file, writes compromised usernames into a text file, creates a JSON message, and generates a new output file
+
 
 ## Featured mini project: Medical insurance dictionary project
 
